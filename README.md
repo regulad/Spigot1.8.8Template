@@ -1,3 +1,3 @@
-# BukkitTemplate
+# Spigot1.8.8Template
 
-A quick template for making shitty plugins.
+A template for plugins that use Spigot 1.8.8.
